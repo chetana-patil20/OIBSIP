@@ -1,80 +1,146 @@
-# OIBSIP Web Development - Level 1 Task 1
+# OIBSIP Web Development & Designing — Level 1
 
-## Landing Page
+## Internship Project Repository
 
-A responsive static landing page built as part of the Oasis Infobyte Web Development & Designing Internship.
+This repository contains my completed **Level 1 tasks** for the **Oasis Infobyte Web Development & Designing Internship**.
 
-## Project Overview
+The projects demonstrate my understanding of HTML5, CSS3, responsive web design, JavaScript, user interaction, and basic frontend development.
 
-This project is a modern and responsive landing page designed to demonstrate fundamental HTML5 and CSS3 skills.
+---
 
-The page includes a hero section, about section, feature cards, navigation bar, call-to-action button, and footer.
+## Level 1 Tasks
 
-## Features
+### Task 1 — Landing Page
 
-- Sticky navigation bar
-- Home, About, and Contact navigation links
-- Hero section with headline and call-to-action button
+**Project:** Responsive Landing Page
+
+A modern and responsive static landing page created using HTML5 and CSS3.
+
+#### Features
+
+- Responsive navigation bar
+- Hero section
 - About section
-- Features section with Learn, Create, and Grow cards
-- Hover effects and smooth scrolling
+- Features section
+- Call-to-action button
+- Hover effects
+- Smooth scrolling
 - Responsive mobile layout
-- Footer with contact and social links
-- Consistent colour palette
-- Clean and readable typography
+- Footer section
+- Clean and consistent design
 
-## Technologies Used
+#### Technologies
 
 - HTML5
 - CSS3
 - Flexbox
 - CSS Media Queries
 
-## Project Structure
+📁 Project folder:
 
-```text
-WebDev-L1-LandingPage/
-│
-├── index.html
-├── style.css
-└── README.md
-# OIBSIP Web Development - Level 1 Task 1
+`WebDev-L1-LandingPage`
 
-## Landing Page
+---
 
-A responsive static landing page built as part of the Oasis Infobyte Web Development & Designing Internship.
+### Task 2 — Personal Portfolio
 
-## Project Overview
+**Project:** Personal Portfolio Website
 
-This project is a modern and responsive landing page designed to demonstrate fundamental HTML5 and CSS3 skills.
+A responsive personal portfolio website designed to showcase my profile, skills, projects, certifications, resume, and contact information.
 
-The page includes a hero section, about section, feature cards, navigation bar, call-to-action button, and footer.
+#### Features
 
-## Features
+- Responsive navigation
+- Hero section
+- About Me section
+- Skills section
+- Projects section
+- Certifications section
+- Resume section
+- Contact section
+- Responsive layout
+- Interactive UI elements
+- Clean and professional design
 
-- Sticky navigation bar
-- Home, About, and Contact navigation links
-- Hero section with headline and call-to-action button
-- About section
-- Features section with Learn, Create, and Grow cards
-- Hover effects and smooth scrolling
-- Responsive mobile layout
-- Footer with contact and social links
-- Consistent colour palette
-- Clean and readable typography
-
-## Technologies Used
+#### Technologies
 
 - HTML5
 - CSS3
+- JavaScript
+- Responsive Web Design
+
+📁 Project folder:
+
+`WebDev-L1-PersonalPortfolio`
+
+---
+
+### Task 3 — Temperature Converter
+
+**Project:** Temperature Converter Website
+
+An interactive temperature conversion tool that allows users to convert temperatures between Celsius, Fahrenheit, and Kelvin.
+
+#### Features
+
+- Numeric temperature input
+- Input unit selection
+- Celsius conversion
+- Fahrenheit conversion
+- Kelvin conversion
+- Convert button
+- Result display
+- Input validation
+- Error handling for invalid values
+- Absolute zero validation
+- Clean and centred user interface
+- Responsive design
+
+#### Technologies
+
+- HTML5
+- CSS3
+- JavaScript
+
+📁 Project folder:
+
+`WebDev-L1-TemperatureConverter`
+
+---
+
+## Technologies Used Across Level 1
+
+- HTML5
+- CSS3
+- JavaScript
 - Flexbox
 - CSS Media Queries
+- Responsive Web Design
+- Git
+- GitHub
 
-## Project Structure
+---
+
+## Repository Structure
 
 ```text
-WebDev-L1-LandingPage/
+OIBSIP/
 │
-├── index.html
-├── style.css
+├── WebDev-L1-LandingPage/
+│   ├── index.html
+│   ├── style.css
+│   └── README.md
+│
+├── WebDev-L1-PersonalPortfolio/
+│   ├── index.html
+│   ├── style.css
+│   ├── assets/
+│   └── README.md
+│
+├── WebDev-L1-TemperatureConverter/
+│   ├── index.html
+│   ├── style.css
+│   ├── script.js
+│   └── README.md
+│
 └── README.md
